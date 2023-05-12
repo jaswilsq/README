@@ -1,7 +1,7 @@
 Hi 👋 My name is Jasmine
 ========================
 
-Frontend Software Developer
+Frontend Software Engineer
 ---------------------------
 
 During my early years of college I was studying Construction Management in Engineering. I took a couple tech classes, one being for coding. It peaked my interest by year three which is when i decided to dive deeper into tech.
